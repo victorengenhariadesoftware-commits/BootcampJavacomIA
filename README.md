@@ -1,6 +1,7 @@
 Itaú - Java com Inteligência Artificial
 ---
 ## 1 Descrição — explique em 2–4 linhas o problema que o projeto resolve e o que ele faz
+Java é uma das linguagens mais presentes em sistemas financeiros e segue evoluindo junto às novas possibilidades da Inteligência Artificial. Neste bootcamp gratuito do Itaú em parceria com a DIO, você começa pelos fundamentos de Java, evolui para programação orientada a objetos e Spring Boot e aprende a integrar IA generativa às suas aplicações. São 45 horas de conteúdo para transformar aprendizado em prática com desafios de código e projetos para o portfólio, incluindo o desenvolvimento de uma API com reconhecimento de fala. Inscreva-se gratuitamente, desenvolva suas habilidades em Java e IA e fique disponível na Talent Match, plataforma da DIO que conecta talentos às empresas parceiras, como o Itaú, que também estará de olho nos talentos.
 ---
 ## 2 Status do projeto — por exemplo: Em desenvolvimento, Concluído, MVP
 ---
