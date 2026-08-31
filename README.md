@@ -30,5 +30,5 @@ Itaú - Java com Inteligência Artificial
 ---
 ## 15 Licença — MIT, Apache 2.0 etc., caso você queira definir como outras pessoas podem usar seu código
 ---
-# 16 Autor / contato — GitHub, LinkedIn ou outras formas profissionais de contato
+## 16 Autor / contato — GitHub, LinkedIn ou outras formas profissionais de contato
 ---
