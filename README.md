@@ -6,7 +6,10 @@ Java é uma das linguagens mais presentes em sistemas financeiros e segue evolui
 plataforma da DIO que conecta talentos às empresas parceiras, como o Itaú, que também estará de olho nos talentos.
 
 ---
-## 2 Status do projeto — por exemplo: Em desenvolvimento, Concluído, MVP
+## 2 Status do projeto 
+
+Em desenvolvimento.
+
 ---
 ## 3 Demonstração — screenshots, GIFs ou link para aplicação publicada, quando existir
 ---
