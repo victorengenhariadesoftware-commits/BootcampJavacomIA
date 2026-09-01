@@ -1,4 +1,4 @@
-Itaú - Java com Inteligência Artificial
+# Itaú - Java com Inteligência Artificial
 ---
 ## 1 Descrição do projeto
 
